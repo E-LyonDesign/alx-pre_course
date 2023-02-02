@@ -1,2 +1,6 @@
 #!/bin/bash
- echo "ALX"
+<<<<<<<<< Temporary merge branch 1
+ echo "ALX School"
+=========
+echo "ALX School is so cool!"
+>>>>>>>>> Temporary merge branch 2
